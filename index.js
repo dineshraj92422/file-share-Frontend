@@ -19,6 +19,7 @@ const baseURL = "https://file-share-via-mail.glitch.me";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
+
 const maxAllowedSize = 100 * 1024 * 1024; //100mb
 
 
