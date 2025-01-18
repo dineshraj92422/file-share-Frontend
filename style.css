@@ -1,6 +1,6 @@
 :root {
     --main-bg-color: #edf5fe;
-    --light-blue: #03a9f4;
+    --light-blue: #0ABBA6;
     --border-color: #0288d147;
     --container-width: 500px;
   }
@@ -23,7 +23,7 @@
   .image-vector {
     width: 50vw;
     height: 50vh;
-    background: url(/undraw-upload.svg) no-repeat center;
+    background: url(./Asset/bg.svg) no-repeat center;
     background-size: contain;
   }
   
