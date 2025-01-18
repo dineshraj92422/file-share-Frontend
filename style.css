@@ -4,7 +4,7 @@
     --border-color: #0288d147;
     --container-width: 500px;
   }
-  
+
   
   body {
     font-family: system-ui;
@@ -58,7 +58,7 @@
   /* will be added when user drags */
   .drop-zone.dragged {
     background: var(--main-bg-color);
-    border-color: #0288d1;
+    border-color: #20514A;
   }
   
   .drop-zone input {
@@ -102,7 +102,7 @@
   }
   
   #browseBtn {
-    color: #2196f3;
+    color: #0ABBA6;
     cursor: pointer;
   }
   
