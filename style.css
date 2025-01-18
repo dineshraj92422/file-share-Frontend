@@ -1,7 +1,7 @@
 :root {
     --main-bg-color: #edf5fe;
     --light-blue: #0ABBA6;
-    --border-color: #0288d147;
+    --border-color: #0abba6bf;
     --container-width: 500px;
   }
 
@@ -18,7 +18,7 @@
     position: absolute;
     top: 10px;
     left: 10px;
-    width: 150px;
+    width: 250px;
   }
   
   .image-vector {
