@@ -20,11 +20,6 @@ A sleek and user-friendly web application for seamless file sharing, featuring d
 - **CSS3**: Styling and responsiveness.  
 - **Vanilla JavaScript**: Handling interactivity and API integration.  
 
-### Backend  
-- **Node.js** with **Express.js**: REST API for file handling and email sharing.  
-- **Multer**: File upload middleware.  
-- **MongoDB**: Database for storing file metadata and links.  
-
 ---
 
 ## 📁 Folder Structure  
